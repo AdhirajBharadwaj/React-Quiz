@@ -15,3 +15,4 @@ export default function Options({question,dispatch,answer}) {
     
   )
 }
+ 
